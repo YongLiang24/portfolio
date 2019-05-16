@@ -1,13 +1,18 @@
-/* #main_body {
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-image: linear-gradient(snow, #ece9e6);
-}
-#main_card{
-  background-color: snow;
-} */
+
 .home_description{
   font-size: 1.5em;
   font-weight: 500;
   font-style: italic;
+}
+
+#about_card{
+  width: 70%;
+  font-size: 1.5em;
+}
+
+@media only screen and (max-width: 900px) {
+  #about_card{
+    width: 100%;
+    font-size: 1.5em;
+  }
 }
