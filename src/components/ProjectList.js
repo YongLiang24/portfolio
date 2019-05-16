@@ -48,7 +48,7 @@ const ProjectList =(props)=>{
             </Modal.Content>
           </Modal>
           <br/><hr/>
-          <List.Header>(Older Projects) Android Applications:</List.Header>
+          <List.Header>(Older Projects) Mobile Applications:</List.Header>
           {/*Project 1  */}
           <Modal trigger={<List.Item as="a" >AxeMan X</List.Item>} size="large" closeIcon style={{textAlign: "center", fontSize: "1.3em"}}>
             <Modal.Header>AxeMan X</Modal.Header>
@@ -76,12 +76,12 @@ const ProjectList =(props)=>{
             </Modal.Content>
           </Modal>
           {/* project 3 */}
-          <Modal trigger={<List.Item as="a" >易学英文(Simple English Learning)</List.Item>} size="large" style={{textAlign: "center", fontSize: "1.3em"}}>
+          <Modal trigger={<List.Item as="a" >易学英文(Simple English Learning)</List.Item>} size="large" style={{textAlign: "center", fontSize: "1.3em"}} closeIcon>
             <Modal.Header>易学英文(Simple English Learning)</Modal.Header>
             <Modal.Content>
               <Modal.Description>
                 <p style={{fontStyle: "italic"}}>Simple English Learning is an english language learning app for native chinese speakers. Over 1000 common used vocabularies and implemented chapters, tests, sounds and images for each vocabulary.</p>
-                <p>Try it at: <a href="https://play.google.com/store/apps/details?id=com.englih.yong" target="_blank" rel="noopener noreferrer">易学英文</a></p>
+                <p>Try it at: <a href="https://play.google.com/store/apps/details?id=com.englih.yong" target="_blank" rel="noopener noreferrer">易学英文(Android)</a></p>
             </Modal.Description>
           </Modal.Content>
           <Modal.Content>
