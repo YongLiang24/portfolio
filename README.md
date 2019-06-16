@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This is my personal portfolio site. Please visit it at:
+https://yongliang24.github.io/portfolio/
 
 ## Available Scripts
 
