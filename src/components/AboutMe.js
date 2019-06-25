@@ -6,9 +6,9 @@ const AboutMe = ()=>{
     <div >
       <Card centered fluid id="about_card"  color='orange' raised>
         <h2 style={{textAlign: "center"}}>Welcome to My Portfolio Site</h2>
-        <Message.Content style={{lineHeight: "1.8", textAlign: "left", textIndent: "50px"}}>
-    A computer enthusiast, loves to code and build things, likes to cook and watch TV, always excited to explore and learn new interesting things.
-        </Message.Content>
+        <Message.Content style={{lineHeight: "1.8", textAlign: "left"}}>
+    A computer enthusiast, loves to code and build things, driven to complete difficult tasks. I enjoy learning new things and that helps me to pick up on required skills quickly.
+
       </Card>
     </div>
   )
