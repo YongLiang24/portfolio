@@ -9,8 +9,7 @@ const AboutMe = ()=>{
         <Message.Content style={{lineHeight: "1.8", textAlign: "left"}}>
     A computer enthusiast, love to build things, driven to complete difficult tasks. 
     I enjoy learning new things and that helps me to pick up on required skills quickly.
-
-      </Card>
+    </Card>
     </div>
   )
 }
