@@ -40,6 +40,7 @@ class App extends React.Component{
           <div>
             <NavBar handleMenuItem={this.handleMenuItem}/><br/>
             <HomeCard handleMenuItem={this.handleMenuItem}/>
+            
           </div>
         )}
   }
