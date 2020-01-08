@@ -20,21 +20,21 @@ const HomeCard =(props)=>{
           </Card.Description>
         </Card.Content>
       </Card>
-      <Header textAlign="center">Skill Levels</Header>
-      <Header textAlign="center">Javascript:</Header>
-      <Progress value='8' total='10' progress='percent'  size="medium" color="green"/>
-      <Header textAlign="center">Java:</Header>
-      <Progress value='7.5' total='10' progress='percent'  size="medium" color="green"/>
-      <Header textAlign="center">React.js:</Header>
-      <Progress value='7.5' total='10' progress='percent'  size="medium" color="green"/>
-      <Header textAlign="center">Ruby on Rails:</Header>
-      <Progress value='6.5' total='10' progress='percent'  size="medium" color="green"/>
-      <Header textAlign="center">HTML5 & CSS3:</Header>
-      <Progress value='6' total='10' progress='percent'  size="medium" color="green"/>
-      <Header textAlign="center">SQL:</Header>
-      <Progress value='6' total='10' progress='percent'  size="medium" color="green"/>
-      <Header textAlign="center">Object Oriented Programming:</Header>
-      <Progress value='7' total='10' progress='percent'  size="medium" color="green"/>
+//       <Header textAlign="center">Skill Levels</Header>
+//       <Header textAlign="center">Javascript:</Header>
+//       <Progress value='8' total='10' progress='percent'  size="medium" color="green"/>
+//       <Header textAlign="center">Java:</Header>
+//       <Progress value='7.5' total='10' progress='percent'  size="medium" color="green"/>
+//       <Header textAlign="center">React.js:</Header>
+//       <Progress value='7.5' total='10' progress='percent'  size="medium" color="green"/>
+//       <Header textAlign="center">Ruby on Rails:</Header>
+//       <Progress value='6.5' total='10' progress='percent'  size="medium" color="green"/>
+//       <Header textAlign="center">HTML5 & CSS3:</Header>
+//       <Progress value='6' total='10' progress='percent'  size="medium" color="green"/>
+//       <Header textAlign="center">SQL:</Header>
+//       <Progress value='6' total='10' progress='percent'  size="medium" color="green"/>
+//       <Header textAlign="center">Object Oriented Programming:</Header>
+//       <Progress value='7' total='10' progress='percent'  size="medium" color="green"/>
     </div>
 
     )
